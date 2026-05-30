@@ -68,10 +68,14 @@ The dashboard is built on 5 tables:
 - Monthly revenue/customer trend line chart with toggle
 - Revenue & Customer split tables by City and Age Group
 - City → Age Group drilldown matrix
+  
+![General View](General%20View.png)
 
 ### Page 2 — Sales Mode Analysis
 - Treemap: Total Revenue and Total Customers split by sales mode
 - Line chart: Sales mode trend over months
+
+![Sales Mode](Sales%20Mode.png)
 
 ### Page 3 — Age Group Analysis
 - Clustered bar: Age Group vs Policy Preference
@@ -79,6 +83,8 @@ The dashboard is built on 5 tables:
 - 100% Stacked bar: Age Group vs Sales Mode
 - Line chart: Age Group vs Expected Settlements
 - Bar chart: Total Customers by Age Group
+
+![Age Group](Age%20Group.png)
 
 ---
 
